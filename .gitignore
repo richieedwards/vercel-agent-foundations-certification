@@ -25,3 +25,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.env*.local
+.swc/plugins/windows_x86_64_22.0.1/4e08e1262f211c85bd1fa82e86a449dedc9668b4f919690025c08290239f7981.wasmer-v7
